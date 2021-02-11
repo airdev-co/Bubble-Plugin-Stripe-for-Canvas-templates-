@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "payment"
+    },
+    "description": "These are the specific Stripe API calls used in AirDev templates. There are only a few, so this will likely not be a useful plugin for Stripe generally.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1545162822402x989800420767813200/Stripe%20logo%20-%20blue.png",
+    "instructions": "",
+    "license": "open_source",
+    "link": "https://airdev.co/",
+    "name": "Stripe (for Canvas templates)",
+    "plugin_instructions": ""
+}
